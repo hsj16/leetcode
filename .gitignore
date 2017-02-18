@@ -1,0 +1,9 @@
+.classpath
+.project
+target/
+catalina.base_IS_UNDEFINED/
+bin/
+.gradle
+build/
+.settings/
+*.wbk
